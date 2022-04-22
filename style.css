@@ -55,6 +55,9 @@ nav a:hover {
     padding: 2px 5px;
     position: absolute;
     top: 200px; 
-    right: 200px;
+    right: 140px;
 }
 
+.s1{
+    background-color:rgb(0, 50, 0);
+}
