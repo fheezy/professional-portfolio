@@ -66,7 +66,7 @@ nav a:hover {
     
 }
 
-.about-me{
+.hero{
     display:flex ;
     color: white;
     width: 20%;
@@ -80,26 +80,38 @@ padding: 10px;
 font-size: 30px;
 }
 
-.about-me > p{
+.about > p{
     font-size: 20px;
-    color: white;
+    color:antiquewhite;
     
 }
 
 #work{
     display: flex;
     justify-content: space-around;
+    
 }
 .section-header{
     background-color: aqua;
     width: 20%;
+    
 }
 
 #about{
     display: flex;
-
-
+    flex:1;
 }
 .projects{
     display:flex;
+    flex:1;
+}
+
+.contact{
+    display:flex;
+    color:antiquewhite;
+    padding: 5px 10px;
+    margin:15px;
+}
+.contact:hover{
+    color:rgb(198, 132, 11);
 }
