@@ -30,7 +30,7 @@ nav {
     display: flex;
 }
 
-nav a {
+a {
     text-decoration: none;
     color:rgb(198, 132, 11) ;
     padding: 5px 10px
