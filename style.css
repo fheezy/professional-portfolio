@@ -103,6 +103,7 @@ font-size: 30px;
 }
 .projects{
     display:flex;
+    justify-content: space-around;
     flex:1;
 }
 
@@ -112,6 +113,11 @@ font-size: 30px;
     padding: 5px 10px;
     margin:15px;
 }
+.contact div{
+    display: flex;
+    justify-content: space-around;
+}
+
 .contact:hover{
     color:rgb(198, 132, 11);
 }
