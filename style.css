@@ -76,7 +76,7 @@ nav a:hover {
 }
 
 .border-line{
-border-left-color: 10px solid rgb(198, 132, 11) ;
+border-left: 10px solid rgb(198, 132, 11) ;
 padding: 10px;
 font-size: 30px;
 }
@@ -126,7 +126,7 @@ font-size: 30px;
 
 #work > div {
     background-color: aliceblue;
-    width: 160px;
+    width: 250px;
     margin: 5px;
     text-align: center;
     line-height: 75px;
@@ -142,10 +142,11 @@ font-size: 30px;
     width: 67%;
     padding: 15px;
 }
-.contact div{
+
+.contact > li {
+    font-size: 22px;
+    justify-content: center;
     display: flex;
-    justify-content: space-around;
-    
 }
 
 .contact:hover{
