@@ -152,3 +152,19 @@ font-size: 30px;
 .contact:hover{
     color:rgb(198, 132, 11);
 }
+.pdf {
+    font-size: 25px;
+    
+}
+div:link, div:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .pdf:hover, .pdf:active {
+      background-color: rgb(36, 95, 36);
+  }
+  
