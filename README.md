@@ -1,1 +1,3 @@
 # professional-portfolio
+
+## As an employee, my employer would like to see a depolyed portfolio that shows my projects that i've worked on as well being creative and more information about me. On my portfolio, I have shown all my projects i have worked on so far including the links so you're able to tap on the titles as well as my resume on the bottom of the page. The resume is a pdf format, you can download the link by taping on it or go on the next web-page. As you will see i also included a little brief information about me. However, duirng this project, I leanred more about css styling, Flexboxx, Grid and little advanced styling.
